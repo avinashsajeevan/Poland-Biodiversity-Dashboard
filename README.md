@@ -17,4 +17,12 @@ library(leaflet)
 library(plotly)  
 library(scales)  
 library(sf)  
-library(janitor)
+library(janitor)  
+
+- There are two tabs: Species Occurrence Map and Total Species Choropleth Map.  
+Species Occurrence Map shows the Occurrence Map, Year count, Sex Percentage, locality count and locality count by year of specific Species.  
+Total Species Choropleth Map shows the Poland's choropleth map of total species count boundaries seperated by 16 provinces, Total Occurrence of Species by Year and Kingdom Percentage of Total Species.  
+
+- Start by selecting or entering the scientific or vernacular name of the species that we need to check in the 'Species Occurrence Map' tab. All the map and plots in the tab will update and shows the observations of the species we searched for.  
+- Total Species Choropleth Map gives the overview of the observations of the total species we have the data for.
+
