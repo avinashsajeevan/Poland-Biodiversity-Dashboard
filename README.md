@@ -8,7 +8,7 @@ Using the biodiversity data, built a Shiny dashboard that visualizes observed sp
 - Try a demo of the app on [shinyapps.io](https://avinash93.shinyapps.io/Poland_Biodiversity_Dashboard/)
 
 ## Running the app
-- Required libraries: \n 
+- Required libraries: 
 library(shiny) \n
 library(shinydashboard) \n
 library(tidyverse)\n
