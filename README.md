@@ -1,5 +1,5 @@
 # Poland Biodiversity Dashboard
-Using the biodiversity data, built a Shiny dashboard that visualizes observed species on the map.
+Using Poland's biodiversity data from the [Global Biodiversity Information Facility](https://www.gbif.org/occurrence/search?dataset_key=8a863029-f435-446a-821e-275f4f641165), built a Shiny dashboard that visualizes observed species on the map. The boundary shapefile from [PUL Digital Maps & Geospatial Data](https://maps.princeton.edu/catalog/stanford-xh662zc5620) has been used to create the choropleth map.
 
 ![](https://github.com/avinashsajeevan/Poland-Biodiversity-Dashboard/blob/main/Screenshots/screencapture1.png)
 
